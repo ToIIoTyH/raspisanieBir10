@@ -1,0 +1,200 @@
+h2.ui-nika-school-name {
+	font-size: 1em !important;
+	margin: 0.4em 0 0.2em 0 !important;
+}
+
+h2.ui-nika-city-name {
+	font-size: 0.9em !important;
+	margin: 0.4em 0 0.2em 0 !important;
+}
+
+h2.ui-nika-list-title {
+	font-size: 1em !important;
+	margin: 0.4em 0 0.4em 0 !important;	
+}
+
+h2.ui-nika-sched-title {
+	font-size: 1em !important;
+	margin: 0.4em 0 0.4em 35px !important;	
+}
+
+h2.ui-nika-date-title {
+	vertical-align: middle;
+	font-size: 0.9em !important;
+	margin: 4px 35 0 35 !important;
+}
+
+h2.ui-nika-copyright-name {
+	font-size: 0.6em !important;
+	color: blue;
+	margin: 0 !important;
+}
+
+.ui-nika-home-content  {
+	background: linear-gradient(#D7EBFA, #EEEEEE) repeat scroll 0 0 #D7EBFA;
+	padding-bottom: 0;
+}
+
+.ui-nika-time-content  {
+	background: linear-gradient(#EEEEEE, #EFEFEF) repeat scroll 0 0 #D7EBFA;
+	height: 3.8em;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.ui-nika-link-desktop {
+	color: navy;
+	font: italic 0.8em Arial;
+	
+}
+
+.ui-nika-btn {
+}
+
+	.ui-nika-sched-cell {
+		width: auto;
+		display: table;
+    padding: 0 !important;
+	}
+	.ui-nika-sched-row {
+		display: table-row;
+		list-style: none outside none;
+	}
+  .ui-nika-lsnnum {
+  	display: table-cell;
+  	text-align: center;
+  	vertical-align: middle;
+  	width: 2em;
+  	color: #AAA;
+  }
+  	
+  .ui-nika-lsntime {
+  	display: table-cell;
+  	vertical-align: middle;
+  	color: green;
+  	width: 2.4em;
+  }  		
+  
+  .ui-nika-lsndesc {
+  	display: table-cell;
+  	vertical-align: middle;
+  	width: 10em;
+  }   
+  .ui-nika-lsnmark {
+  	display: table-cell;
+  	vertical-align: middle;
+  	width: 1.2em;
+  }   
+  
+    .ui-nika-group {
+    position: relative;
+  	font-weight: normal;
+  	color: #00F;
+  }
+  .ui-nika-subj {
+  	color: #228;
+  }
+  .ui-nika-upk {
+  	color: #09C;
+  }
+  .ui-nika-none {
+  	color: #AAA;
+  }
+  .ui-nika-teach {
+  	color: #266;
+  	font-style: italic;
+  }  
+  .ui-nika-room {
+  	color: #000;
+  	font-weight: bold;
+  }    
+  
+  .ui-nika-cancel {
+  	color: #D22;
+   	text-decoration: line-through;
+  }
+    
+.ui-nika-change {color: #D22;}    
+    
+.ui-nika-right {float: right;}
+
+
+.ui-nika-calendar-tab {
+		width: 100%;
+		display: table;
+    margin: -10px;
+    border-spacing: 1px;
+	}
+	
+.ui-nika-calendar-row {
+	display: table-row;
+  
+}
+
+.ui-nika-calendar-title {
+  	display: table-cell;
+  	text-align: center;
+  	vertical-align: middle;
+  	color: #000;
+  	font-weight: bold;
+  	padding: 0.6em;
+  	width: 14.2%;
+}
+
+.ui-nika-calendar-cell, .ui-nika-calendar-cell:visited {
+  	display: table-cell;
+  	text-align: center;
+  	vertical-align: middle;
+  	color: #555 !important;
+  	font-weight: bold;	
+  	text-decoration: none;
+  	border: 1px solid #AAF;
+  	padding: 0.6em;
+}
+
+.ui-nika-cell-today {
+	border: 3px solid #88C; 
+}
+
+.ui-nika-calendar-cell:hover {
+	color: #55A !important;
+	text-decoration: none;
+}
+
+.ui-nika-exists {
+	background-color: #D7EBFA;
+}
+
+.ui-nika-cell-change {
+	font-style: italic;
+	background-image: url('images/select.png');
+	background-position:center;
+	background-repeat: no-repeat;
+	background-color: #FFD4D7;
+}
+
+.ui-nika-cell-method {
+	background-color: #FECBA5;
+}
+
+.ui-nika-exists:hover {
+	background-color: #E7FBFF;
+}  
+  
+.ui-nika-saturday, .ui-nika-saturday:visited {
+	color: #090 !important;
+} 
+
+.ui-nika-sunday, .ui-nika-sunday:visited  {
+	color: #C22 !important;
+}  
+
+.ui-nika-teach-free {
+	color: #F96C04;
+}
+
+span.ui-nika-time {
+	color: rgb(170,40,30);
+	font: italic bold 0.8em Arial;
+	
+}
